@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/Teitoku/Documents/Coding/FinalProject">
+        <classes>
+            <class name="TestCase.BaseHQTest">
+                <methods>
+                    <include name="test1"/>
+                    <include name="test2"/>
+                    <include name="test3"/>
+                    <include name="test4"/>
+                    <include name="test5"/>
+                    <include name="test6"/>
+                    <include name="test7"/>
+                    <include name="test8"/>
+                    <include name="test9"/>
+                    <include name="test11"/>
+                    <include name="test12"/>
+                    <include name="test13"/>
+                    <include name="test14"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
+
+
